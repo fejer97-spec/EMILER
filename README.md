@@ -63,7 +63,7 @@ Af Emil Wiis Ravn og Emil Casper Rasmussen.
 
 <section id="beer">
 <div class="title">Batch 01</div>
-<h2>Sour Beer med Hindbær</h2>
+<h2>Raspberry Sour</h2>
 
 <div class="grid">
 <div>
@@ -99,7 +99,7 @@ Vi laver øl, vi selv har lyst til at drikke, og hver batch får sit eget udtryk
 </p>
 </div>
 <div class="label">
-<img src="IMG_2229.jpg" alt="EMILER flasker">
+<img src="IMG_9098.jpg" alt="EMILER flasker">
 </div>
 </div>
 </section>
