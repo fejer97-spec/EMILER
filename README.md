@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>EMILER</title>
+<title>...</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 :root{--paper:#f7f5ef;--ink:#111}
@@ -48,11 +48,10 @@ h1{font-size:52px}
 
 <div class="hero">
 <div>
-<div class="title">Håndlavet i Aarhus</div>
-<h1>Mere<br>Smag.</h1>
+<div class="title">Hindre masseproduktion, mere smag</div>
+<h1>Håndlavet i<br>Aarhus.</h1>
 <p class="sub">
-Mindre masseproduktion, mere smag.
-Af Emil Ravn og Emil Rasmussen.
+Af Emil Wiis Ravn og Emil Casper Rasmussen.
 </p>
 <a class="btn" href="#beer">Se batch 01</a>
 </div>
