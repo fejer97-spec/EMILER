@@ -49,10 +49,10 @@ h1{font-size:52px}
 <div class="hero">
 <div>
 <div class="title">Håndlavet i Aarhus</div>
-<h1>Raspberry<br>Sour.</h1>
+<h1>Mere<br>Smag.</h1>
 <p class="sub">
-En syrlig sour beer med hindbær brygget i små batches.
-Designet på siden er inspireret direkte af etiketten på flasken.
+Mindre masseproduktion, mere smag.
+Af Emil Ravn og Emil Rasmussen.
 </p>
 <a class="btn" href="#beer">Se batch 01</a>
 </div>
