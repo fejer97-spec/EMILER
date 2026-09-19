@@ -27,7 +27,7 @@ h2{font-size:48px;letter-spacing:-2px;margin-bottom:30px;font-weight:500}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:50px}
 .card{border:1px solid #111;padding:28px;background:white}
 .card h3{font-size:15px;text-transform:uppercase;letter-spacing:.15em;margin-bottom:20px}
-.card2{border:1px solid #111;padding:28px;background:white}
+.card2{border:0px solid #111;padding:0px;background:white}
 .card2 img{width:100%;display:block}
 section{border-top:1px solid #111;padding:80px 0}
 .fact{display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px solid #ddd;font-size:14px}
@@ -60,8 +60,8 @@ Brygget af <br>Emil Wiis Ravn og Emil Casper Rasmussen
   
 <a class="btn" href="#batch01">Se batch 01 - Raspberry Sour</a><br><br>
 <a class="btn" href="#batch02">Se batch 02 - Blonde Ale</a><br><br>
-<a class="btn" href="#batch03">Se batch 03 - Mørk juleøl</a><br><br>
-<a class="btn" href="#batch04">Se batch 04 - Engelsk Cider</a>
+<a class="btn" href="#batch03">Se batch 03 - Mørk Juleøl</a><br><br>
+<a class="btn" href="#batch04">Se batch 04 - Engelsk Æblecider</a>
 </div>
 
 <div class="label">
@@ -97,6 +97,7 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 <div class="card2">
 <img src="B1.jpg" alt="Raspberry Sour billede">
 </div>
+</div>
 
 </div>
 
@@ -107,31 +108,98 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 <h2>Blonde Ale</h2>
 
 <div class="grid">
+  
 <div>
 <p style="font-size:17px;line-height:1.8;margin-bottom:26px">
-En belgisk inspireret hvedeøl, brygget med variationer af malt.
-Frisk og sprød, med en gylden farve .
+En belgisk inspireret hvedeøl, brygget med variationer af malt. 
+Frisk og sprød, med en gylden farve.
 </p>
-
 <div class="quote">
 “Gylden blonde.”
 </div>
-</div>
 
+</div>
 <div class="card">
 <h3>Specifikationer</h3>
 <div class="fact"><span>Stil</span><strong>Blonde Ale</strong></div>
 <div class="fact"><span>Alkohol</span><strong>5,5 vol. %</strong></div>
 <div class="fact"><span>Foreløbig bryggemængde</span><strong>25 L</strong></div>
-<div class="fact"><span>Gærtype</span><strong>Safale US-05</strong></div>
+<div class="fact"><span>Gærtype</span><strong>Safeale US-05</strong></div>
 <div class="fact"><span>Ingredienser</span><strong>Malt · Vand · Humle · Gær</strong></div>
-</div>
-</div>
 
-<div class="card">
+<div class="card2">
 <img src="B2.jpg" alt="Blonde Ale billede">
 </div>
 </div>
+
+</div>
+
+</section>
+
+<section id="batch03">
+<div class="title">Batch 03</div>
+<h2>Mørk Juleøl</h2>
+
+<div class="grid">
+  
+<div>
+<p style="font-size:17px;line-height:1.8;margin-bottom:26px">
+En mørk ale med karamelliserede noter, fra den hjemmeristede malt. 
+Inspireret af de mørke øl der drikkes til jul.
+</p>
+<div class="quote">
+“Mørk, bitter og karamelliseret”
+</div>
+
+</div>
+<div class="card">
+<h3>Specifikationer</h3>
+<div class="fact"><span>Stil</span><strong>Dark Ale</strong></div>
+<div class="fact"><span>Alkohol</span><strong>6,0 vol. %</strong></div>
+<div class="fact"><span>Foreløbig bryggemængde</span><strong>25 L</strong></div>
+<div class="fact"><span>Gærtype</span><strong>Safeale US-05</strong></div>
+<div class="fact"><span>Ingredienser</span><strong>Ristet malt · Vand · Humle · Gær</strong></div>
+
+<div class="card2">
+<img src="B3.jpg" alt="Ristet malt billede">
+</div>
+</div>
+
+</div>
+
+</section>
+
+<section id="batch04">
+<div class="title">Batch 04</div>
+<h2>Engelsk Æblecider</h2>
+
+<div class="grid">
+  
+<div>
+<p style="font-size:17px;line-height:1.8;margin-bottom:26px">
+Traditionelt engelsk cider lavet på danske æbler i sæson.
+Cideren er frisk og sprød med en let sødme.
+</p>
+<div class="quote">
+“Valget af gær er med til at bevare syrligheden”
+</div>
+
+</div>
+<div class="card">
+<h3>Specifikationer</h3>
+<div class="fact"><span>Stil</span><strong>Engelsk Cider</strong></div>
+<div class="fact"><span>Alkohol</span><strong>4,0 vol. %</strong></div>
+<div class="fact"><span>Foreløbig bryggemængde</span><strong>25 L</strong></div>
+<div class="fact"><span>Gærtype</span><strong>Safcider AC-4</strong></div>
+<div class="fact"><span>Ingredienser</span><strong>Danske æbler · Vand · Gær</strong></div>
+
+<div class="card2">
+<img src="B4.jpg" alt="Ristet malt billede">
+</div>
+</div>
+
+</div>
+
 </section>
 
 <section id="about">
@@ -141,7 +209,7 @@ Frisk og sprød, med en gylden farve .
 <div>
 <p style="font-size:16px;line-height:1.8">
 EMILER er et hobbybryggeri skabt af nysgerrighed og gode idéer.
-Vi laver øl, vi selv har lyst til at drikke, og hver batch får sit eget udtryk.
+Vi laver øl, cider og portvin vi selv har lyst til at drikke, og hver batch får sit eget udtryk.
 </p>
 </div>
 <div class="label">
