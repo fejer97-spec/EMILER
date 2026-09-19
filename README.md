@@ -194,7 +194,7 @@ Cideren er frisk og sprød med en let sødme.
 <div class="fact"><span>Ingredienser</span><strong>Danske æbler · Vand · Gær</strong></div>
 
 <div class="card2">
-<img src="B4.jpg" alt="Ristet malt billede">
+<img src="B4.jpg" alt="Danske æbler billede">
 </div>
 </div>
 
