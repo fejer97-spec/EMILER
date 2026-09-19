@@ -48,12 +48,12 @@ h1{font-size:52px}
 
 <div class="hero">
 <div>
-<div class="title">Hindre masseproduktion, mere smag</div>
+<div class="title">Mindre masseproduktion, mere smag</div>
 <h1>Håndlavet i<br>Aarhus.</h1>
 <p class="sub">
 Af Emil Wiis Ravn og Emil Casper Rasmussen.
 </p>
-<a class="btn" href="#beer">Se batch 01</a>
+<a class="btn" href="#batch01">Se batch 01</a>
 </div>
 
 <div class="label">
@@ -61,7 +61,7 @@ Af Emil Wiis Ravn og Emil Casper Rasmussen.
 </div>
 </div>
 
-<section id="beer">
+<section id="batch01">
 <div class="title">Batch 01</div>
 <h2>Raspberry Sour</h2>
 
