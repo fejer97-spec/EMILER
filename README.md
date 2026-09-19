@@ -58,9 +58,9 @@ h1{font-size:52px}
 Brygget af <br>Emil Wiis Ravn og Emil Casper Rasmussen
 </p>
   
-<a class="btn" href="#batch01">Se batch 01 - Raspberry Sour</a><br><br><br>
-<a class="btn" href="#batch02">Se batch 02 - Blonde Ale</a><br><br><br>
-<a class="btn" href="#batch03">Se batch 03 - Mørk juleøl</a><br><br><br>
+<a class="btn" href="#batch01">Se batch 01 - Raspberry Sour</a><br><br>
+<a class="btn" href="#batch02">Se batch 02 - Blonde Ale</a><br><br>
+<a class="btn" href="#batch03">Se batch 03 - Mørk juleøl</a><br><br>
 <a class="btn" href="#batch04">Se batch 04 - Engelsk Cider</a>
 </div>
 
@@ -81,14 +81,11 @@ Brygget af <br>Emil Wiis Ravn og Emil Casper Rasmussen
 Den første øl brygget af EMILER. En frisk, syrlig og frugtig sour,
 hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 </p>
-
 <div class="quote">
 “Brygget med rigtige hindbær.”
 </div>
 
-
 </div>
-
 <div class="card">
 <h3>Specifikationer</h3>
 <div class="fact"><span>Stil</span><strong>Sour Beer</strong></div>
@@ -96,7 +93,6 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 <div class="fact"><span>Foreløbig bryggemængde</span><strong>110 L</strong></div>
 <div class="fact"><span>Gærtype</span><strong>Philly Sour</strong></div>
 <div class="fact"><span>Ingredienser</span><strong>Malt · Vand · Humle · Gær · Hindbær · Laktose</strong></div>
-</div>
 
 <div class="card2">
 <img src="B1.jpg" alt="Raspberry Sour billede">
