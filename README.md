@@ -48,12 +48,15 @@ h1{font-size:52px}
 
 <div class="hero">
 <div>
-<div class="title">Mindre masseproduktion, mere smag</div>
-<h1>Håndlavet i<br>Aarhus.</h1>
+<div class="title"> Øl, cider og portvin</div>
+<h1>Hjemmebrygget i<br>Aarhus.</h1>
 <p class="sub">
-Af Emil Wiis Ravn og Emil Casper Rasmussen.
+Brygget af <br>Emil Wiis Ravn og Emil Casper Rasmussen
 </p>
-<a class="btn" href="#batch01">Se batch 01</a>
+<a class="btn" href="#batch01">Se batch 01 - Raspberry Sour</a>
+<a class="btn" href="#batch02">Se batch 02 - Blonde Ale</a>
+<a class="btn" href="#batch03">Se batch 03 - Mørk juleøl</a>
+<a class="btn" href="#batch04">Se batch 04 - Engelsk Cider</a>
 </div>
 
 <div class="label">
@@ -68,22 +71,22 @@ Af Emil Wiis Ravn og Emil Casper Rasmussen.
 <div class="grid">
 <div>
 <p style="font-size:17px;line-height:1.8;margin-bottom:26px">
-Den første officielle EMILER-øl. En frisk, syrlig og let frugtig sour,
-hvor hindbær er i centrum. Brygget og flasket i Aarhus i 2026.
+Den første øl brygget af EMILER. En frisk, syrlig og frugtig sour,
+hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 </p>
 
 <div class="quote">
-“Små mængder. Store ambitioner.”
+“Brygget med rigtige hindbær.”
 </div>
 </div>
 
 <div class="card">
 <h3>Specifikationer</h3>
-<div class="fact"><span>Stil</span><strong>Raspberry Sour</strong></div>
-<div class="fact"><span>Alkohol</span><strong>5,5 %</strong></div>
-<div class="fact"><span>Batch</span><strong>01</strong></div>
-<div class="fact"><span>By</span><strong>Aarhus</strong></div>
-<div class="fact"><span>Ingredienser</span><strong>Malt · Vand · Humle · Gær · Hindbær</strong></div>
+<div class="fact"><span>Stil</span><strong>Sour Beer</strong></div>
+<div class="fact"><span>Alkohol</span><strong>5,5 vol. %</strong></div>
+<div class="fact"><span>Foreløbig bryggemængde</span><strong>110 L</strong></div>
+<div class="fact"><span>Gærtype</span><strong>Philly Sour</strong></div>
+<div class="fact"><span>Ingredienser</span><strong>Malt · Vand · Humle · Gær · Hindbær · Laktose</strong></div>
 </div>
 </div>
 </section>
