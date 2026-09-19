@@ -194,7 +194,7 @@ Cideren er frisk og sprød med en let sødme.
 <div class="fact"><span>Ingredienser</span><strong>Danske æbler · Vand · Gær</strong></div>
 
 <div class="card2">
-<img src="B4.jpg" alt="Danske æbler billede">
+<img src="B4.jpeg" alt="Danske æbler billede">
 </div>
 </div>
 
@@ -204,7 +204,7 @@ Cideren er frisk og sprød med en let sødme.
 
 <section id="about">
 <div class="title">OM</div>
-<h2>Et lille bryggeri.</h2>
+<h2>Et lille hjemmebryggeri.</h2>
 <div class="grid">
 <div>
 <p style="font-size:16px;line-height:1.8">
