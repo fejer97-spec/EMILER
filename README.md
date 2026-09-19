@@ -58,9 +58,9 @@ h1{font-size:52px}
 Brygget af <br>Emil Wiis Ravn og Emil Casper Rasmussen
 </p>
   
-<a class="btn" href="#batch01">Se batch 01 - Raspberry Sour</a><br>
-<a class="btn" href="#batch02">Se batch 02 - Blonde Ale</a><br>
-<a class="btn" href="#batch03">Se batch 03 - Mørk juleøl</a><br>
+<a class="btn" href="#batch01">Se batch 01 - Raspberry Sour</a><br><br><br>
+<a class="btn" href="#batch02">Se batch 02 - Blonde Ale</a><br><br><br>
+<a class="btn" href="#batch03">Se batch 03 - Mørk juleøl</a><br><br><br>
 <a class="btn" href="#batch04">Se batch 04 - Engelsk Cider</a>
 </div>
 
@@ -85,7 +85,7 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 <div class="quote">
 “Brygget med rigtige hindbær.”
 </div>
-</div>
+
 
 </div>
 
@@ -104,7 +104,6 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 
 </div>
 
-</div>
 </section>
 
 <section id="batch02">
