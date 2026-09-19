@@ -27,6 +27,9 @@ h2{font-size:48px;letter-spacing:-2px;margin-bottom:30px;font-weight:500}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:50px}
 .card{border:1px solid #111;padding:28px;background:white}
 .card h3{font-size:15px;text-transform:uppercase;letter-spacing:.15em;margin-bottom:20px}
+.card2{border:1px solid #111;padding:28px;background:white}
+.card2 img{width:100%;display:block}
+section{border-top:1px solid #111;padding:80px 0}
 .fact{display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px solid #ddd;font-size:14px}
 .quote{font-size:34px;line-height:1.25;max-width:600px;letter-spacing:-1px}
 footer{border-top:1px solid #111;padding:24px 0;font-size:11px;text-transform:uppercase;letter-spacing:.14em;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
@@ -54,11 +57,11 @@ h1{font-size:52px}
 Brygget af <br>Emil Wiis Ravn og Emil Casper Rasmussen
 </p>
 <a class="btn" href="#batch01">Se batch 01 - Raspberry Sour</a>
-</p>
+
 <a class="btn" href="#batch02">Se batch 02 - Blonde Ale</a>
-</p>
+
 <a class="btn" href="#batch03">Se batch 03 - Mørk juleøl</a>
-</p>
+
 <a class="btn" href="#batch04">Se batch 04 - Engelsk Cider</a>
 </div>
 
@@ -83,6 +86,8 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 </div>
 </div>
 
+</div>
+
 <div class="card">
 <h3>Specifikationer</h3>
 <div class="fact"><span>Stil</span><strong>Sour Beer</strong></div>
@@ -91,11 +96,13 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 <div class="fact"><span>Gærtype</span><strong>Philly Sour</strong></div>
 <div class="fact"><span>Ingredienser</span><strong>Malt · Vand · Humle · Gær · Hindbær · Laktose</strong></div>
 </div>
-</div>
 
-<div class="card">
+<div class="card2">
 <img src="B1.jpg" alt="Raspberry Sour billede">
 </div>
+
+</div>
+
 </div>
 </section>
 
