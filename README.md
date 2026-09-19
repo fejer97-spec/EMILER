@@ -54,8 +54,11 @@ h1{font-size:52px}
 Brygget af <br>Emil Wiis Ravn og Emil Casper Rasmussen
 </p>
 <a class="btn" href="#batch01">Se batch 01 - Raspberry Sour</a>
+</p>
 <a class="btn" href="#batch02">Se batch 02 - Blonde Ale</a>
+</p>
 <a class="btn" href="#batch03">Se batch 03 - Mørk juleøl</a>
+</p>
 <a class="btn" href="#batch04">Se batch 04 - Engelsk Cider</a>
 </div>
 
@@ -89,10 +92,47 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 <div class="fact"><span>Ingredienser</span><strong>Malt · Vand · Humle · Gær · Hindbær · Laktose</strong></div>
 </div>
 </div>
+
+<div class="card">
+<img src="B1.jpg" alt="Raspberry Sour billede">
+</div>
+</div>
+</section>
+
+<section id="batch02">
+<div class="title">Batch 02</div>
+<h2>Blonde Ale</h2>
+
+<div class="grid">
+<div>
+<p style="font-size:17px;line-height:1.8;margin-bottom:26px">
+En belgisk inspireret hvedeøl, brygget med variationer af malt.
+Frisk og sprød, med en gylden farve .
+</p>
+
+<div class="quote">
+“Gylden blonde.”
+</div>
+</div>
+
+<div class="card">
+<h3>Specifikationer</h3>
+<div class="fact"><span>Stil</span><strong>Blonde Ale</strong></div>
+<div class="fact"><span>Alkohol</span><strong>5,5 vol. %</strong></div>
+<div class="fact"><span>Foreløbig bryggemængde</span><strong>25 L</strong></div>
+<div class="fact"><span>Gærtype</span><strong>Safale US-05</strong></div>
+<div class="fact"><span>Ingredienser</span><strong>Malt · Vand · Humle · Gær</strong></div>
+</div>
+</div>
+
+<div class="card">
+<img src="B2.jpg" alt="Blonde Ale billede">
+</div>
+</div>
 </section>
 
 <section id="about">
-<div class="title">EMILER</div>
+<div class="title">OM</div>
 <h2>Et lille bryggeri.</h2>
 <div class="grid">
 <div>
@@ -108,8 +148,8 @@ Vi laver øl, vi selv har lyst til at drikke, og hver batch får sit eget udtryk
 </section>
 
 <footer>
-<span>EMILER · HÅNDLAVET I AARHUS</span>
-<span>RASPBERRY SOUR · BATCH 01</span>
+<span>TAK FORDI DU KIGGEDE MED</span>
+<span>AARHUS 2026</span>
 </footer>
 </div>
 </body>
