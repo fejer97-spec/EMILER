@@ -129,7 +129,7 @@ Frisk og sprød, med en gylden farve.
 <div class="fact"><span>Stil</span><strong>Blonde Ale</strong></div>
 <div class="fact"><span>Alkohol</span><strong>5,5 vol. %</strong></div>
 <div class="fact"><span>Foreløbig bryggemængde</span><strong>25 L</strong></div>
-<div class="fact"><span>Gærtype</span><strong>Safeale US-05</strong></div>
+<div class="fact"><span>Gærtype</span><strong>SafAle US-05</strong></div>
 <div class="fact"><span>Ingredienser</span><strong>Malt · Vand · Humle · Gær</strong></div>
 
 <div class="card2">
@@ -162,7 +162,7 @@ Inspireret af de mørke øl der drikkes til jul.
 <div class="fact"><span>Stil</span><strong>Dark Ale</strong></div>
 <div class="fact"><span>Alkohol</span><strong>6,0 vol. %</strong></div>
 <div class="fact"><span>Foreløbig bryggemængde</span><strong>25 L</strong></div>
-<div class="fact"><span>Gærtype</span><strong>Safeale US-05</strong></div>
+<div class="fact"><span>Gærtype</span><strong>SafAle US-05</strong></div>
 <div class="fact"><span>Ingredienser</span><strong>Ristet malt · Vand · Humle · Gær</strong></div>
 
 <div class="card2">
@@ -195,7 +195,7 @@ Cideren er frisk og sprød med en let sødme.
 <div class="fact"><span>Stil</span><strong>Engelsk Cider</strong></div>
 <div class="fact"><span>Alkohol</span><strong>4,0 vol. %</strong></div>
 <div class="fact"><span>Foreløbig bryggemængde</span><strong>25 L</strong></div>
-<div class="fact"><span>Gærtype</span><strong>Safcider AC-4</strong></div>
+<div class="fact"><span>Gærtype</span><strong>SafCider AC-4</strong></div>
 <div class="fact"><span>Ingredienser</span><strong>Danske æbler · Vand · Gær</strong></div>
 
 <div class="card2">
