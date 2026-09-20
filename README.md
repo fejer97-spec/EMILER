@@ -22,14 +22,21 @@ h1{font-size:74px;line-height:.92;font-weight:500;letter-spacing:-3px}
 .label{background:white;border:1px solid #111;padding:18px}
 .label img{width:100%;display:block}
 section{border-top:1px solid #111;padding:80px 0}
+  
 .title{font-size:12px;text-transform:uppercase;letter-spacing:.18em;margin-bottom:16px}
 h2{font-size:48px;letter-spacing:-2px;margin-bottom:30px;font-weight:500}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:50px}
+  
 .card{border:1px solid #111;padding:28px;background:white}
 .card h3{font-size:15px;text-transform:uppercase;letter-spacing:.15em;margin-bottom:20px}
+
 .card2{border:0px solid #111;padding:0px;background:white}
 .card2 img{width:100%;display:block}
 section{border-top:1px solid #111;padding:80px 0}
+
+.card3{border:1px solid #111;padding:28px;background:white}
+.card3 img{width:100%;display:block}
+
 .fact{display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px solid #ddd;font-size:14px}
 .quote{font-size:34px;line-height:1.25;max-width:600px;letter-spacing:-1px}
 footer{border-top:1px solid #111;padding:24px 0;font-size:11px;text-transform:uppercase;letter-spacing:.14em;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
@@ -83,6 +90,9 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 </p>
 <div class="quote">
 “Brygget med rigtige hindbær.”
+
+<div class="card2">
+<img src="B1.2.jpg" alt="Raspberry Sour billede2">
 </div>
 
 </div>
