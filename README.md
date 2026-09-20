@@ -90,9 +90,6 @@ hvor hindbær er i centrum. Tilsat laktose, for bedre fylde.
 </p>
 <div class="quote">
 “Brygget med rigtige hindbær.”
-
-<div class="card2">
-<img src="B1.2.jpg" alt="Raspberry Sour billede2">
 </div>
 
 </div>
