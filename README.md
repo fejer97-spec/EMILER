@@ -51,13 +51,12 @@ h1{font-size:52px}
 <header>
 <div class="logo">EMILER</div>
 <nav>
-<a href="#beer">Øl</a>
+<a href="#batch01">Batches</a>
 <a href="#about">Om</a>
 </nav>
 </header>
 
 <div class="hero">
-  
 <div>
 <div class="title"> Øl, cider og portvin</div>
 <h1>Hjemmebrygget i<br>Aarhus.</h1>
@@ -74,7 +73,6 @@ Brygget af <br>Emil Wiis Ravn og Emil Casper Rasmussen
 <div class="label">
 <img src="IMG_2229.jpg" alt="EMILER Raspberry Sour etikette">
 </div>
-
 </div>
 
 <section id="batch01">
@@ -135,7 +133,7 @@ Frisk og sprød, med en gylden farve.
 <div class="fact"><span>Ingredienser</span><strong>Malt · Vand · Humle · Gær</strong></div>
 
 <div class="card2">
-<img src="B2.jpg" alt="Blonde Ale billede">
+<img src="B2.2.jpg" alt="Blonde Ale billede">
 </div>
 </div>
 
@@ -220,7 +218,7 @@ Vi laver øl, cider og portvin vi selv har lyst til at drikke, og hver batch få
 </p>
 </div>
 <div class="label">
-<img src="IMG_9098.jpg" alt="EMILER flasker">
+<img src="B.OM1.jpg" alt="EMILER flasker">
 </div>
 </div>
 </section>
